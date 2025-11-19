@@ -535,3 +535,12 @@ body.loaded #page-content {
         padding: 2rem;
     }
 }
+
+.features-grid {
+    margin-top: 3rem;
+}
+
+.center-btn {
+    text-align: center;
+    margin-top: 2rem;
+}
